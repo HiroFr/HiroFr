@@ -15,4 +15,4 @@ Mes centres d'intéret sont nombreux : *Voyage, Anime/Manga, Jeux Vidéo, Progra
 
 **Mon twitter :**
 
-![Static Badge](https://img.shields.io/badge/@Hir0Fr-000000?style=for-the-badge&logo=x&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/@Hir0Fr-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/hir0Fr)

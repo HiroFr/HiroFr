@@ -1,6 +1,6 @@
 ## Hello !👋
 
-**Moi c'est HiroFr, un developpeur FrontEnd passionné !**
+**Moi c'est HiroFr, un développeur FrontEnd passionné !**
 <br /><br />
 
 🗒️ J’ai appris en grande partie en autodidacte et ai suivi une formation de 13 mois en alternance pour confirmer mes compétences.<br />

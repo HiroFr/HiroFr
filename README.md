@@ -1,17 +1,28 @@
 ## Hello !👋
+Développeur Front-End passionné, j’ai appris en autodidacte et suivi une formation de 13 mois en alternance pour confirmer mes compétences. J’ai ensuite approfondi mon expertise avec une formation supplémentaire de 18 mois en alternance, renforçant ainsi mes connaissances et mon expérience.
 
-**Moi c'est HiroFr, un développeur FrontEnd passionné !**
-<br /><br />
+📌 Qui suis-je ?
 
-🗒️ J’ai appris en grande partie en autodidacte et ai suivi une formation de 13 mois en alternance pour confirmer mes compétences.<br />
-🏆 Je continue ma route vers une nouvel aventure, pour obtenir un diplôme qui valorisera mes compétences et mes capacités.
-<br /><br />
+Spécialisé en ReactJS / NextJS, je conçois des interfaces modernes, performantes et accessibles. Passionné par le web design, je continue chaque jour d’explorer et d’apprendre en autodidacte pour améliorer mes créations et affiner mon expertise.
 
-Je suis également passionnée par le web design 🎨 depuis plus d’un an, je continue chaque jour de persévérer en autodidacte.
+🚀 Ce que j’apporte
+- Développement d’interfaces web dynamiques et responsives
+- Optimisation des performances et du SEO
+- Expérience en Redux Toolkit, Jest, tests fonctionnels
+- Intégration d’API et gestion des données (MongoDB, Express)
+- Bonne pratique des SASS, Tailwind CSS, SVG, animations UI
+
+👀 À la recherche d’un nouveau défi !
+
+Je suis ouvert aux opportunités et motivé à rejoindre une équipe où je pourrai mettre mes compétences au service de projets ambitieux.
+
+📩 Discutons ensemble !
+
+N’hésite pas à me contacter pour échanger sur un projet ou une collaboration.
 
 ---
 
-Mes centres d'intéret sont nombreux : *Voyage, Anime/Manga, Jeux Vidéo, Programmation, Astronomie et le Spatiale*.
+Mes centres d'intéret sont nombreux : *Voyage, Anime/Manga, Jeux Vidéo, Programmation, UI/UX, Astronomie et le Spatiale*.
 
 **Mon twitter :**
 

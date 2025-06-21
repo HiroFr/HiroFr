@@ -12,5 +12,5 @@
 
 Je suis ouvert aux opportunités et motivé à rejoindre une équipe où je pourrai mettre mes compétences au service de projets ambitieux.
 
-🐦 Twitter :  
+🐦 X (Anciennement Twitter) :  
 [![Static Badge](https://img.shields.io/badge/@Hir0Fr-000000?style=flat&logo=x&logoColor=white)](https://www.x.com/hir0Fr)
